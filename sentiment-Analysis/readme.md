@@ -1,6 +1,8 @@
 
 Purpose: This script is designed to process and analyze multiple pieces of text using a pre-trained language model. It can handle several texts in a single input string, separated by a chosen delimiter (like a period or newline). Each text is analyzed individually, and the results are formatted for easy readability.
 
+model from hugging face : cardiffnlp/twitter-roberta-base-sentiment-latest
+
 How It Works:
 
 Input Text: The script accepts a string containing multiple texts separated by a delimiter (e.g., period, newline, semicolon).
