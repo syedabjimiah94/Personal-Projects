@@ -1,0 +1,73 @@
+1.Explain how PoW consensus works:                          The central
+principle behind PoW consensus is to solve complex mathematical problems and
+make the largest number of guesses as quickly as possible. Such requires a lot
+of computational power, and by using a more efficient mining machine to run
+calculations, a miner can maximize profitability in terms of crypto rewards.  In
+this type of consensus mechanism, miners compete to be the first one to find a
+hash regarding a particular block, which can only be solved using sheer
+computing power to make the largest number of guesses.    2.Explain the Concept
+of PoS Proof-of-Stake:          Proof-of-Stake is a consensus algorithm that
+deals with the main drawbacks of PoW. In this mechanism, every block gets
+validated before the network adds another block to the blockchain ledger. Unlike
+PoW, where miners have to solve complex puzzles, in PoS, miners can join the
+mining process using their coins to stake. It allows users to mine for rewards
+using very minimal hardware and software resources. Here, the mining capacity of
+a particular miner depends on how many coins they already have; thus, the more
+coins one has, the better chances are, which indicates only the richest can have
+control of the consensus.  3.roles and responsibilities of an Ethereum
+Developer?          Ethereum developers work on Blockchain enterprise technology
+framework design and development solutions. They are responsible for preparing
+system modules, design documents, and system testing documents as per project
+requirements. He also works on system architecture and the implementation of the
+blockchain program function module. He participates in the design of security
+protocols and architecture.    4.Ether          is Ethereum’s native
+cryptocurrency, which is arguably the second most popular digital token after
+bitcoin (BTC).  5.What is Ethereum?  Ethereum is an open software platform based
+on blockchain that runs on a network rather than running on a single computer.
+It offers Ethereum developers and experts a decentralized trust-less platform to
+build and deploy decentralized applications that run on the Ethereum blockchain
+and whose execution is monitored by thousands of peers.    6.What are Ethereum
+wallets?  Ethereum wallets are a piece of software that allows users to interact
+with their Ethereum account. These wallets are essential because before you can
+start trading Ether, you need to store it somewhere, and there comes the role of
+wallets.  7.What is erc21?  ERC-721 is an open standard that describes how to
+build Non-Fungible tokens on EVM (Ethereum Virtual Machine) compatible
+blockchains; it is a standard interface for Non-Fungible tokens; it has a set of
+rules which make it easy to work with NFTs. NFTs are not only of ERC-721 type;
+they can also be ERC-1155 tokens  Ethereum request for comment  ERC stands for
+"Ethereum request for comment," and the ERC20 standard was implemented in 2015.
+Plenty of well-known digital currencies use the ERC-20 standard, including Maker
+(MKR), Basic Attention Token (BAT), Augur (REP), and OMG Network (OMG).
+8.Hash:  A hash is a function that meets the encrypted demands needed to solve
+for a blockchain computation. Hashes are of a fixed length since it makes it
+nearly impossible to guess the length of the hash if someone was trying to crack
+the blockchain. The same data will always produce the same hashed value. In
+particular, the Bitcoin hash algorithm is SHA-256 or Secure Hashing Algorithm
+256 bits.  9.IPFS  The InterPlanetary File System is a protocol and peer-to-peer
+network for storing and sharing data in a distributed file system. IPFS uses
+content-addressing to uniquely identify each file in a global namespace
+connecting all computing devices.    10.SHA 256  Secure Hashing Algorithm (SHA)
+-256 is the hash function and mining algorithm of the Bitcoin protocol,
+referring to the cryptographic hash function that outputs a 256 bits long value.
+It moderates the creation and management of addresses, and is also used for
+transaction verification.  11.Does ETH use SHA-256?  Ethereum uses Keccak-256 in
+a consensus engine called Ethash. Keccak is a family of hash functions that
+eventually got standardized to SHA-3 (SHA256 is part of a family of hash
+functions called SHA-2). Ethereum called it Keccak instead of SHA-3 as it has
+slightly different parameters than the current SHA-3.  12. What is Merkel Tree?
+Merkel Tree is a data structure that is used for verifying a block. It is in the
+form of a binary tree containing cryptographic hashes of each block. A Merkle
+tree is structured similarly to a binary tree where each leaf node is a hash of
+a block of transactional data and each non-leaf node is a hash of its leaf node.
+The Merkel root or hash root is the final hash root of all the transaction
+hashes. It encompasses all the transactions that are underlying all the non-leaf
+nodes.  13.public Blockchain ledgers   are visible to all the users on the
+internet and any user can verify and add a block of transactions to the
+Blockchain. Examples, Bitcoin, and Ethereum.      14.Private Blockchain ledgers
+are visible to users on the internet but only specific users in the organization
+can verify and add transactions. It’s a permissioned blockchain, although the
+information is available publicly, the controllers of the information are within
+the organization and are predetermined. Example, Blockstack.  15.how is the
+transaction fee calculated?  Gas usage depends upon the amount of storage and
+set of instructions (codes) used in a smart contract. The transaction fee is
+calculated in Ether, which is given as:  Ether = Tx Fees = Gas Limit * Gas Price
