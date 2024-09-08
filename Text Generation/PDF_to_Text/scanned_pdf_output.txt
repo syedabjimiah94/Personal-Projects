@@ -1,0 +1,112 @@
+SYED ABJIMIAH |
+
+Senior Associate - Software Developer
+(AIML / NLP)
+
+Passionate about language and technology, | specialize
+in Natural Language Processing (NLP) and Artificial
+Intelligence Markup Language (AIML). My expertise
+spans developing sophisticated chatbots, optimizing
+audio recording web apps, and seamlessly translating
+content into multiple languages. With a keen focus on
+enhancing user experience and delivering precise
+translations.
+
+WORK EXPERIENCE
+
+Senior Associate Enterprise sys
+
+Sutherland Global PVT LTD
+
+06/2022 - Present Chennai
+
+Achievements/Tasks
+
+© Automatic Question Generation: Leveraged transformer models to generate
+questions from various sources (PDFs, words, audio, video), achieving a 25%
+increase in accuracy and a 30% boost in processing speed.
+
+® Optimized a sentiment analysis model , increasing its F1 score from 0.82 to 0.91,
+
+Created a question-answering chatbot that handled 10,000+ user queries per
+day with a 95% accuracy rate!
+
+Speech-to-Text and Text-to-Speech: Integrated advanced speech recognition
+and synthesis technologies to Facilitate seamless audio and text conversions!
+
+JWT Authentication: Ensured secure authentication and authorization through
+the implementation of JSON Web Token (JWT) authentication mechanisms.
+
+Base64 Image to Text Conversion: Created a streamlined process for converting
+base64-encoded images to text, improving data extraction efficiency.
+
+Sensitive Data Handling: Implemented masking techniques for sensitive data and
+censor words, along with fuzzy date search capabilities For enhanced data privacy.
+
+SOFTWARE DEVELOPER - INTERNSHIP
+
+Kaashiv Infotech PVT LTD
+
+09/2021 - 03/2022 Chennai
+Achievements/Tasks
+
+® Hyperparameter Grid Search: Conducted extensive hyperparameter grid
+searches, resulting in a 20% performance improvement for various models and
+tasks.
+
+® K-means Clustering: Applied K-means clustering to segment datasets, improving
+insights and data-driven decision-making processes. DBSCAN Clustering: Utilized
+DBSCAN clustering to identify and analyze data patterns, particularly in noisy
+datasets!
+
+SYSTEM ENGINEER
+Dkam Interio PVT LTD(2019 - 21) & Accel Frontline(2017 - 18)
+
+Chennai & Bangalore
+
+PERSONAL PROJECTS
+
+Prompt Engineering (04/2024 - 05/2024)
+PDF Annotator and Redact (02/2024 - 03/2024)
+Resume Screening (05/2023 - 07/2023)
+
+syedabjimiah94@gmail.com
+
+9980315957
+
+Chennai, India
+
+linkedin.com/in/syed -
+abjimiah-480059228
+
+github.com/syedabjimiah94
+
+SKILLS
+
+EDUCATION
+
+Francis Xavier College
+MASTER OF ENGINEERING
+2020 - 2022
+
+Courses
+© ISE
+
+Loyola College
+BACHELOR OF ENGINEERING
+2012-2016
+
+Courses
+® ECE
+
+HONOR AWARDS
+
+100% Focus On Result
+(06/2024 - Present)
+Sutherland Global PVT LTD
+
+LANGUAGES
+
+English, Tamil, Hindi, Urdu
+
+OR OMOROME
